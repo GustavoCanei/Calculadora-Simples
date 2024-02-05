@@ -1,4 +1,4 @@
-Calculadora Simples em Python
+Calculadora Simples em Python!
 Este projeto consiste em uma calculadora simples desenvolvida em Python, que permite realizar operações básicas de adição, subtração, multiplicação e divisão entre dois números fornecidos pelo usuário.
 
 Descrição Detalhada
