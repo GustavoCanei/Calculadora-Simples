@@ -19,3 +19,17 @@ def divide(x, y):
     else:
         return x / y
 
+# Menu da calculadora
+print("Selecione a operação:")
+print("1. Adição")
+print("2. Subtração")
+print("3. Multiplicação")
+print("4. Divisão")
+
+# Captura da escolha do usuário
+choice = input("Digite a sua opção (1/2/3/4): ")
+
+# Captura dos números de entrada
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
