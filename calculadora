@@ -1,4 +1,4 @@
-# Projeto: Calculadora Simples
+# Projeto: Calculadora Simples!
 
 # Função para adição
 def add(x, y):
