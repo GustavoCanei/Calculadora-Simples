@@ -33,3 +33,15 @@ choice = input("Digite a sua opção (1/2/3/4): ")
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 
+# Execução da operação escolhida
+if choice == '1':
+    print("Resultado:", add(num1, num2))
+elif choice == '2':
+    print("Resultado:", subtract(num1, num2))
+elif choice == '3':
+    print("Resultado:", multiply(num1, num2))
+elif choice == '4':
+    print("Resultado:", divide(num1, num2))
+else:
+    print("Opção inválida")
+
