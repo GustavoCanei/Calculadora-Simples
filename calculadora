@@ -1,0 +1,9 @@
+# Projeto: Calculadora Simples
+
+# Função para adição
+def add(x, y):
+    return x + y
+
+# Função para subtração
+def subtract(x, y):
+    return x - y
